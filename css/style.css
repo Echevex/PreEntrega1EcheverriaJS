@@ -1,0 +1,16 @@
+* {
+  background-color: rgb(53, 247, 182);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.bg-icecream {
+  background-color: rgb(12, 201, 163);
+  display: flex;
+  font-size: 25px;
+}
+
+.bg-body-tertiary {
+  background-position: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */
